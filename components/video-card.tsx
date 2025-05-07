@@ -18,7 +18,6 @@ const VideoCard = ({ video }: any) => {
                     single_img={video.single_img}
                     splash_img={video.splash_img}
                     title={video.title}
-                    alt={`Bokep ${video.title}`}
                 />
                 </Link>
             </div>
